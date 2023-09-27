@@ -227,7 +227,7 @@ main .profile{
 }
 
 .profile-profession{
-    font-size: 14px;
+    font-size: 20px;
     color: #2eca7f;
     line-height: 14px;
     font-weight: 400;
@@ -236,7 +236,7 @@ main .profile{
 .profile-social a{
     transition: color 0.3s ease 0s;
     margin: 0 6px;
-    font-size: 16px;
+    font-size: 25px;
 }
 
 .profile-social a:hover{
